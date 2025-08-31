@@ -1,0 +1,5 @@
+{
+  "name": "Copy of React ATM Machine",
+  "description": "A functional simulation of an ATM interface built with React and Tailwind CSS, allowing users to check balances, withdraw, deposit, and view transaction history.",
+  "requestFramePermissions": []
+}
